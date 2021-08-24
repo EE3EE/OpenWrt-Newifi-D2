@@ -13,4 +13,4 @@ src-git passwall https://github.com/xiaorouji/openwrt-passwall
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 #src-git liuran001_packages https://github.com/liuran001/openwrt-packages
 src-git lienol https://github.com/Lienol/openwrt-package
-src-git giwifi-gear https://github.com/zpj7377327/luci-app-giwifi-gear
+src-git giwifi https://github.com/zpj7377327/luci-app-giwifi-gear
